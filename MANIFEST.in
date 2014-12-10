@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include celio *.css
+recursive-include celio *.csv
+recursive-include celio *.html
+recursive-include celio *.ico
+recursive-include celio *.js
+recursive-include celio *.json
+recursive-include celio *.md
+recursive-include celio *.png
+recursive-include celio *.py
+recursive-include celio *.svg
+recursive-include celio *.txt
+recursive-exclude celio *.pyc
