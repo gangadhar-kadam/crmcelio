@@ -4,17 +4,13 @@
  "docstatus": 0, 
  "doctype": "Page", 
  "icon": "icon-star", 
- "modified": "2014-12-10 13:29:17.460837", 
+ "modified": "2014-12-10 19:38:01.437264", 
  "modified_by": "Administrator", 
  "module": "Celio", 
  "name": "support-dashboard", 
  "owner": "Administrator", 
  "page_name": "Support Dashboard", 
- "roles": [
-  {
-   "role": "All"
-  }
- ], 
+ "roles": [], 
  "script": null, 
  "standard": "Yes", 
  "style": null, 
